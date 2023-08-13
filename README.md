@@ -1,1 +1,5 @@
 # Road_Accidents_Breakdown
+In this road accidents breakdown project, I harnessed the capabilities of Microsoft Excel to develop a dynamic and comprehensive summary dashboard. The primary objective of this project was to delve into road accident data, uncover patterns, and generate insights that could contribute to better road safety measures and accident prevention strategies. 
+To achieve this, I started by removing unnecessary data from the extensive dataset by utilizing several data cleaning tools. Then, I created several pivot tables that were the pillar for visualizing this dataset (pivot charts). Last, i combined the pivot charts to create a fully interactive dashboard that user could seamlessly navigate and extract valuable insights. Also, this dashboard included several filters and criteria, so that the data can be displayed through various lenses by the users.
+
+![Picture10](https://github.com/MohammadMohammadieh/Bike_Stores_Analysis/assets/139064934/48873c91-b852-43f3-8d5d-382349f46eb0)
